@@ -1,0 +1,9 @@
+{
+  "name": "my-node",
+  "version": "0.0.0",
+  "description": "MyNode",
+  "main": "server.js",
+  "author": {
+    "name": "Owner"
+  }
+}
